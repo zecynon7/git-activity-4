@@ -4,13 +4,13 @@ Institution: Technological University of the Philippines - Manila
 Repository: https://github.com/zecynon7/git-activity-4
 
 RESEARCH PAPER TITLE
-[Enter the group's research paper title here]
+
 
 GROUP MEMBERS AND TASK ASSIGNMENTS
 1. John Michael C. Litana (GitHub: zecynon7) - Repository setup, Git workflow coordination, and documentation.
-2. [Group member full name] (GitHub: [username]) - [Assigned research task].
-3. [Group member full name] (GitHub: [username]) - [Assigned research task].
-4. [Group member full name] (GitHub: [username]) - [Assigned research task].
+2. 
+3. 
+4. 
 
 SUBJECT TEACHER
 GitHub username to invite: madzamador
@@ -33,5 +33,3 @@ GIT COMMANDS
 8. git merge task-your-name
 9. git push origin main
 
-NOTE
-Replace every bracketed placeholder with the actual research paper title, group member names, GitHub usernames, and agreed task assignments before submitting. Invite the teacher and all group members through the repository Settings page.
