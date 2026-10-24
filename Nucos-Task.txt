@@ -1,0 +1,11 @@
+TASK OWNER: Ericka R. Nucos (GitHub: EkaIsh)
+TASK: Verifying that the data, figures, and tables are correct
+
+RESPONSIBILITIES:
+- Check that numbers in tables match the source data
+- Check that figures and charts have correct labels and captions
+- Check that table and figure numbers are in order
+- Check that computations and totals are accurate
+- Check that every figure or table is mentioned in the text
+
+STATUS: In progress
