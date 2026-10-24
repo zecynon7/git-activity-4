@@ -1,6 +1,6 @@
 Member: Jiano Freo Magtangob
 GitHub: JianoFreo
-Role: Full-stack Software Engineer
+Role: Software Developer / Quality Assurance
 Birthyear: 2005
 Organizations: 
     Technological University of the Philippines – Manila (Student)
