@@ -8,7 +8,7 @@ RESEARCH PAPER TITLE
 
 GROUP MEMBERS AND TASK ASSIGNMENTS
 1. John Michael C. Litana (GitHub: zecynon7) - Repository setup, Git workflow coordination, and documentation.
-2. 
+2. Ericka R. Nucos (Github: EkaIsh) - verifying that the data, figures, and tables are correct
 3. 
 4. 
 
