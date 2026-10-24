@@ -1,0 +1,5 @@
+Member: Hazel D. Baniqued
+GitHub: howlux-ui
+Task: Scrum Master and Testing / Quality Assurance
+Details: Coordinated the team's Git workflow and checked that
+branches are pushed and readable by all members.
