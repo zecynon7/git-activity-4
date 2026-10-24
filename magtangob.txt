@@ -1,0 +1,20 @@
+Member: Jiano Freo Magtangob
+GitHub: JianoFreo
+Role: Full-stack Software Engineer
+Birthyear: 2005
+Organizations: 
+    Technological University of the Philippines – Manila (Student)
+    Manulife - Makati (Full-Stack Developer)
+    Flyrank AI - Chicago, Illinois (Remote) - Machine Learning Engineer
+Hobbies: 
+    - Coding
+    - Cooking
+    - Watching Movies
+Likes: 
+    - Teaching
+    - Hunger Games
+    - Neural nets
+Personal Motto:
+    "Bite into it like a smoking s'more. It might burn you, but you'll figure out how to swallow and enjoy it anyway."
+Details: Coordinated the team's Git workflow and checked that
+branches are pushed and readable by all members.
